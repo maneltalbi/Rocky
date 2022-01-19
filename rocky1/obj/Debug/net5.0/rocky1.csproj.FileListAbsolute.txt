@@ -148,3 +148,5 @@ C:\Users\DELL\source\repos\rocky1\rocky1\obj\Debug\net5.0\Razor\Views\Category\I
 C:\Users\DELL\source\repos\rocky1\rocky1\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
 C:\Users\DELL\source\repos\rocky1\rocky1\obj\Debug\net5.0\Razor\Views\ApplicationType\Create.cshtml.g.cs
 C:\Users\DELL\source\repos\rocky1\rocky1\obj\Debug\net5.0\Razor\Views\ApplicationType\Index.cshtml.g.cs
+C:\Users\DELL\source\repos\rocky1\rocky1\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\DELL\source\repos\rocky1\rocky1\obj\Debug\net5.0\Razor\Views\Category\Delete.cshtml.g.cs
